@@ -21,7 +21,7 @@ public class Client {
             NameComponent [] name = new NameComponent[] {
                     new NameComponent("","")
             };
-            Registraire resgistraire = RegistraireHelper.
+            //Registraire resgistraire = RegistraireHelper.
         } catch (InvalidName invalidName) {
             invalidName.printStackTrace();
         }
@@ -35,8 +35,7 @@ public class Client {
         return null;
     }
 
-    public void add_reaction_in_system(String description, int niveau) {
-    }
+    public void add_reaction_in_system(String description, int niveau) {}
 
     public ArrayList<Dossier> find_folder_by_name(String name) {
         return null;
@@ -54,10 +53,7 @@ public class Client {
         return null;
     }
 
-    public void add_infraction_in_folder(int infraction_id, int folder_id) {
+    public void add_infraction_in_folder(int infraction_id, int folder_id) {}
 
-    }
-
-    public void add_reaction_in_folder(int reaction_id, int folder_id) {
-    }
+    public void add_reaction_in_folder(int reaction_id, int folder_id) {}
 }

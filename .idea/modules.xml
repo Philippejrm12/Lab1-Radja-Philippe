@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDL/IDL.iml" filepath="$PROJECT_DIR$/IDL/IDL.iml" />
       <module fileurl="file://$PROJECT_DIR$/equipe11-log720-A11-lab1.iml" filepath="$PROJECT_DIR$/equipe11-log720-A11-lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/police-voiture/police-voiture.iml" filepath="$PROJECT_DIR$/police-voiture/police-voiture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poste-de-police/poste-de-police.iml" filepath="$PROJECT_DIR$/poste-de-police/poste-de-police.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serveur/serveur.iml" filepath="$PROJECT_DIR$/serveur/serveur.iml" />
     </modules>
   </component>
 </project>

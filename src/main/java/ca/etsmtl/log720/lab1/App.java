@@ -47,6 +47,8 @@ public class App
                     break;
                 case 7: system_exit();
                     break;
+                default: main_menu();
+                    break;
             }
         } catch (IOException e) {
             e.printStackTrace();

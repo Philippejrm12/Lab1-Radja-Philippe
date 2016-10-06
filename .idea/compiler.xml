@@ -23,10 +23,18 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="equipe11-log720-A11-lab1" />
+        <module name="IDL" />
+        <module name="police-voiture" />
+        <module name="poste-de-police" />
+        <module name="serveur" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="equipe11-log720-A11-lab1" target="1.5" />
+      <module name="IDL" target="1.5" />
+      <module name="police-voiture" target="1.5" />
+      <module name="poste-de-police" target="1.5" />
+      <module name="serveur" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
